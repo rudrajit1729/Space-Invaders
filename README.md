@@ -5,6 +5,8 @@ Classic Space Invaders game created in python with a modern twist.  Done at Spee
 
 ![](assets/capture.png)
 
+
+
 # Run the Game
 Just clone everything in here and run the python script *main.py*.
 
