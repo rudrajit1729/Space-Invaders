@@ -3,7 +3,7 @@ Classic Space Invaders game created in python with a modern twist.  Done at Spee
 
 # Game Screen
 
-![](assets/capture.png)
+![](https://github.com/rudrajit1729/Space-Invaders/blob/master/assets/capture.PNG)
 
 
 
